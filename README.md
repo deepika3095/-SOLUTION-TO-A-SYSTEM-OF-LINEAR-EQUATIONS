@@ -14,14 +14,16 @@ Using the np.linalg.solve(), we can find the solutions.
 ### Step 4: 
 End the program
 ## Program:
-``#Developed by: Deepika R
+```
+#Developed by: Deepika R
 #RegisterNumber: 212223230038
 import numpy as np
 
 A = np.array([[1, 3], [2, 5]])
 B = np.array([5, -3])
 c = np.linalg.solve(A, B) 
-print(c)``
+print(c)
+```
 
 ## Output:
 ![Screenshot (67)](https://github.com/user-attachments/assets/38de91b4-c962-49d9-b58f-84aa0f3ce361)
